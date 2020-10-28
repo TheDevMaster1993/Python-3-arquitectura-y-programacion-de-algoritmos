@@ -4,3 +4,4 @@ b = (float(input('Ingrese el valor de la Base Menor ')))
 h = (float(input('Ingrese el valor de la Altura ')))
 AT = ((B+b)/2)*h
 print('El área del Trapeio calculada es: {} cm'.format(AT))
+#Area del trapecio
